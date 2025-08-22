@@ -1,4 +1,8 @@
-# 1. Шестиугольник
+# 1. Шестиугольник => [solution](https://github.com/Ekvo/ozon-route-256-mid-03-08-25/blob/main/tasks/task_1/solution.go "https://github.com/Ekvo/ozon-route-256-mid-03-08-25/blob/main/tasks/task_1/solution.go")
+
+![Примерыстроенияшестиугольников.](https://github.com/Ekvo/ozon-route-256-mid-03-08-25/blob/main/images/task_one_result.png "https://github.com/Ekvo/ozon-route-256-mid-03-08-25/blob/main/images/task_one_result.png")
+
+
 
 ## Условие задачи
 
